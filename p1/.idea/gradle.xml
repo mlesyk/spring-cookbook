@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../p10_gradle" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../gradle-7.6" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../p10_gradle" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../p11_gradle" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../gradle-7.6" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../p11_gradle" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../p1_gradle" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../gradle-7.6" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../p1_gradle" />
+            <option value="$PROJECT_DIR$/../p1_gradle/app" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../p2_gradle" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../gradle-7.6" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../p2_gradle" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../p3_gradle" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../gradle-7.6" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../p3_gradle" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../p4_gradle" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../gradle-7.6" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../p4_gradle" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../p5_gradle" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../gradle-7.6" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../p5_gradle" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../p6_gradle" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../gradle-7.6" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../p6_gradle" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../p7_gradle" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../gradle-7.6" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../p7_gradle" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../p8_gradle" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../gradle-7.6" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../p8_gradle" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../p9_gradle" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../gradle-7.6" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../p9_gradle" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

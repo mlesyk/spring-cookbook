@@ -1,0 +1,25 @@
+plugins {
+    id 'war'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+ext {
+    springVersion = '5.2.22.RELEASE'
+}
+
+dependencies {
+    implementation "org.springframework:spring-webmvc:$springVersion"
+    compileOnly 'javax.servlet:javax.servlet-api:3.0.1'
+    compileOnly 'javax.validation:validation-api:2.0.1.Final'
+    compileOnly 'org.hibernate.validator:hibernate-validator:8.0.0.Final'
+    implementation 'javax.servlet:jstl:1.2'
+    implementation 'org.slf4j:slf4j-api:2.0.5'
+    implementation 'ch.qos.logback:logback-core:1.4.5'
+    implementation 'ch.qos.logback:logback-classic:1.4.5'
+}

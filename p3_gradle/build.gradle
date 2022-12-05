@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+}
+
+group 'org.org.mlesyk'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+ext {
+    springVersion = '5.2.22.RELEASE'
+}
+
+dependencies {
+    implementation "org.springframework:spring-context:$springVersion"
+    implementation 'javax.inject:javax.inject:1'
+}

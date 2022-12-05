@@ -1,0 +1,26 @@
+plugins {
+    id 'java'
+}
+
+group 'org.mlesyk'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+ext {
+    springVersion = '5.2.22.RELEASE'
+}
+
+dependencies {
+    implementation "org.springframework:spring-context:$springVersion"
+    implementation "org.springframework:spring-aop:$springVersion"
+    implementation 'org.aspectj:aspectjrt:1.9.9.1'
+    implementation 'org.aspectj:aspectjtools:1.9.9.1'
+    implementation 'org.aspectj:aspectjweaver:1.9.9.1'
+    implementation 'org.slf4j:slf4j-api:2.0.5'
+    implementation 'ch.qos.logback:logback-core:1.4.5'
+    implementation 'ch.qos.logback:logback-classic:1.4.5'
+
+}
