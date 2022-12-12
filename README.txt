@@ -54,3 +54,27 @@ resource bundle
 exception error page
 forms
 validation
+
+- p11_gradle
+plain Jdbc + JdbcTemplate examples
+
+- p12_gradle
+Hibernate-xml/Hibernate-annotated/JPA DAO
+
+- p13_gradle
+Spring DI + Hibernate/JPA
+
+- p14_gradle
+Hibernate/JPA transactional
+
+- p15_gradle
+Spring Data JPA
+
+- p16_gradle
+Spring JMS Plain/Template
+
+- p17_gradle
+Spring RabbitMQ Plain/Template
+
+- p18_gradle
+Spring Kafka
